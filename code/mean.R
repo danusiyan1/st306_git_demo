@@ -1,5 +1,5 @@
-x<-rnorm(100)
-mean(x)
+x1<-rnorm(100)
+mean(x1)
 
 
 beta_0 <- 1
